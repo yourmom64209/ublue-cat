@@ -1,5 +1,5 @@
-# image will be published to ghcr.io/yourmom64209/wayblue-cat
-name: wayblue-cat
+# image will be published to ghcr.io/yourmom64209/ublue-cat
+name: ublue-cat
 # description will be included in the image's metadata
 description: This is my personal OS image.
 
